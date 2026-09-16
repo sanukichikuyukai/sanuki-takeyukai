@@ -28,3 +28,6 @@
 .gallery-grid {
   align-items: start;
 }
+.gallery-grid {
+  align-items: start;   /* ← カードの上端を強制的に揃える */
+}
