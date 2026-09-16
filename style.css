@@ -38,6 +38,6 @@
 }
 .section-line {
   border: none;
-  border-top: 2px solid #8c6239;
+  border-top: 2px solid green;  /* 緑に固定 */
   margin: 10px 0 20px;
 }
