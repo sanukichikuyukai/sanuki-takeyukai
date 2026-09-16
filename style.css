@@ -31,3 +31,8 @@
 .gallery-grid {
   align-items: start;   /* ← カードの上端を強制的に揃える */
 }
+.gallery-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;  /* ← カードの高さを揃える */
+}
